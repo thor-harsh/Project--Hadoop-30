@@ -1,9 +1,8 @@
 # Project--Hadoop-30
-# Project--Hadoop-29
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff.Here We will use Spark SQL along with Breadth First Search (BFS) to find the degree of seperation between two given characters in our Marvel Universe**.<br></br>
+**In this project We will use Spark with Python to do an amazing stuff.Here We will use Spark SQL along by calculating Cosine Similarity to find the most similar movies**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
 
@@ -20,8 +19,6 @@ Spark SQL supports the HiveQL syntax as well as Hive SerDes and UDFs, allowing y
 Spark SQL includes a cost-based optimizer, columnar storage and code generation to make queries fast. At the same time, it scales to thousands of nodes and multi hour queries using the Spark engine, which provides full mid-query fault tolerance. Don't worry about using a different engine for historical data.<br></br>
 
 
-**What is Breadth First Search**?<br></br>
-Breadth-First Search Algorithm or BFS is the most widely utilized method. BFS is a graph traversal approach in which you start at a source node and layer by layer through the graph, analyzing the nodes directly related to the source node. Then, in BFS traversal, you must move on to the next-level neighbor nodes.<br></br>
 
 **Important Note: Go through the Marvel+Graph file before jumping to the code.**
 
