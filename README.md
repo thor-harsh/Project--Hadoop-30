@@ -19,6 +19,10 @@ Spark SQL supports the HiveQL syntax as well as Hive SerDes and UDFs, allowing y
 Spark SQL includes a cost-based optimizer, columnar storage and code generation to make queries fast. At the same time, it scales to thousands of nodes and multi hour queries using the Spark engine, which provides full mid-query fault tolerance. Don't worry about using a different engine for historical data.<br></br>
 
 
+**What is Cosine Similarity**?<br></br>
+In data analysis, cosine similarity is a measure of similarity between two non-zero vectors defined in an inner product space. Cosine similarity is the cosine of the angle between the vectors; that is, it is the dot product of the vectors divided by the product of their lengths.
+
+
 
 **Important Note: Go through the Marvel+Graph file before jumping to the code.**
 
