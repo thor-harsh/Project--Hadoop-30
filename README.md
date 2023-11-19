@@ -23,7 +23,6 @@ Spark SQL includes a cost-based optimizer, columnar storage and code generation 
 In data analysis, cosine similarity is a measure of similarity between two non-zero vectors defined in an inner product space. Cosine similarity is the cosine of the angle between the vectors; that is, it is the dot product of the vectors divided by the product of their lengths.<br></br>
 
 
-
 **Important Note: Go through the Marvel+Graph file before jumping to the code.**
 
 </table>
