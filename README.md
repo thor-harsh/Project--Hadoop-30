@@ -24,7 +24,6 @@ In data analysis, cosine similarity is a measure of similarity between two non-z
 
 
 
-
 **Important Note: Go through the Marvel+Graph file before jumping to the code.**
 
 </table>
