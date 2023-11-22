@@ -1,5 +1,4 @@
 # Project--Hadoop-30
-
 <table>
   
 **In this project We will use Spark with Python to do an amazing stuff.Here We will use Spark SQL along by calculating Cosine Similarity to find the most similar movies**.<br></br>
